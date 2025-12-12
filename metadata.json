@@ -1,0 +1,5 @@
+{
+  "name": "Control Vehicular",
+  "description": "Professional Parking Management System with Offline-First Architecture using Dexie.js",
+  "requestFramePermissions": []
+}
